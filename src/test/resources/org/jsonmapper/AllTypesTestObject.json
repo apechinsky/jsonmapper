@@ -1,0 +1,31 @@
+{
+    "booleanField": true,
+    "booleanFieldArray" : [true, false, true, false],
+    "booleanFieldWrapper": true,
+    "booleanFieldWrapperArray": [true, true, false, true],
+
+    "longField": 12345678901234,
+    "longFieldArray" : [35, 36, 37, 38],
+    "longFieldWrapper": 35,
+    "longFieldWrapperArray": [35, 36, 37, 38],
+
+    "doubleField": 123.456,
+    "doubleFieldArray": [123.456, 456.123],
+    "doubleFieldWrapper": 123.456,
+    "doubleFieldWrapperArray": [123.456, 456.123],
+
+    "stringField" : "test string value",
+    "stringFieldArray" : ["string value1", "string value2", "string value3"],
+
+    "longFieldArrayNull" : null,
+    "longFieldWrapperNull" : null,
+    "stringFieldNull" : null,
+    "stringFieldArrayNull" : null,
+
+    "nestedObject" : {
+        "stringField" : "string value",
+        "intField" : 12345 
+    },
+
+    "sex" : "FEMALE"
+}

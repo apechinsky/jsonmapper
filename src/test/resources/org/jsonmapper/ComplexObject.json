@@ -1,0 +1,25 @@
+{
+    "property1": "value1",
+    "property2": 1,
+
+    "property3": {
+        "property1": "value31",
+        "property2": 2,
+        "stringArray" : ["value1", "value2", "value3"]
+    },
+
+    "stringArray" : ["value1", "value2", "value3"],
+
+    "objectArray": [
+        {
+            "property1": "objectArray[0].property1",
+            "property2": 31,
+            "stringArray" : ["value1", "value2", "value3"]
+        },
+        {
+            "property1": "objectArray[1].property1",
+            "property2": 32,
+            "stringArray" : ["value1", "value2", "value3"]
+        }
+    ]
+}
