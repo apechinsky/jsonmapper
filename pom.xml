@@ -6,7 +6,7 @@
 
     <groupId>org.jsonmapper</groupId>
     <artifactId>jsonmapper</artifactId>
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.1.1</version>
 
     <name>Simple JSON mapping library.</name>
 
@@ -15,7 +15,7 @@
     </description>
 
     <properties>
-        <srplib.version>0.3.2</srplib.version>
+        <srplib.version>0.3.3</srplib.version>
     </properties>
 
     <dependencies>

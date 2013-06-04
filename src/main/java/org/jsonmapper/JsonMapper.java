@@ -14,7 +14,7 @@ import org.json.JSONObject;
 import org.srplib.contract.Argument;
 import org.srplib.conversion.Converter;
 import org.srplib.conversion.ConverterRegistry;
-import org.srplib.support.ReflectionUtils;
+import org.srplib.reflection.ReflectionUtils;
 
 /**
  * A java object to JSON mapping tool.
